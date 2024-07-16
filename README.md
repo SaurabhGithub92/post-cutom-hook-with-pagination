@@ -7,7 +7,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-##After integrating the custom hook
+## After integrating the custom hook
 ![Intial Fetch](<src/assets/Screenshot 2024-07-16 at 11.19.17 PM.png>)
 ![Next Page data using Next button](<src/assets/Screenshot 2024-07-16 at 11.19.44 PM.png>)
 ![When No More Post](<src/assets/Screenshot 2024-07-16 at 11.19.31 PM.png>)

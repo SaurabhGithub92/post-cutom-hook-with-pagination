@@ -8,8 +8,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## After integrating the custom hook
-![Intial Fetch](<src/assets/Screenshot 2024-07-16 at 11.19.17 PM.png>)
+### Initial fetch
+![Initial Fetch](<src/assets/Screenshot 2024-07-16 at 11.19.17 PM.png>)
+### Next page navigation using Next button
 ![Next Page data using Next button](<src/assets/Screenshot 2024-07-16 at 11.19.44 PM.png>)
+### When reaching end of the list post
 ![When No More Post](<src/assets/Screenshot 2024-07-16 at 11.19.31 PM.png>)
 
 ## Expanding the ESLint configuration
